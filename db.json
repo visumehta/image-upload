@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "name": "image.jpg",
+      "size": 1146020,
+      "type": "image/jpeg",
+      "id": 1
+    },
+    {
+      "name": "image2.jpg",
+      "size": 313105,
+      "type": "image/jpeg",
+      "id": 2
+    }
+  ]
+}
